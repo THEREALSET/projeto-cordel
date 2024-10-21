@@ -75,13 +75,13 @@ section {
 #img1 {
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url('imagens/wallpaper002.jpg');
+    background-image: url('wallpaper002.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 #img2 {
-    background-image: url('imagens/wallpaper005.jpg');
+    background-image: url('wallpaper005.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
